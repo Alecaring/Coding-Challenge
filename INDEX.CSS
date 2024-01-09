@@ -1,0 +1,89 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.contenitor{
+    margin: auto;
+    width: 1250px;
+    height: 1000px;
+    border-radius: 5px;
+    background-color: gray;
+    
+}
+body>div{
+    background-color: rgba(0, 0, 0, 0.478);
+    border-radius: 12px;
+    border: 0px solid #0088b3;
+}
+header img{
+    margin: auto;
+    padding-top: 60px;
+    padding-bottom: 15px;
+    width: 170px;
+    margin-top: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+header h1{
+    margin: auto;
+    color: rgb(82, 247, 63);
+    text-align: center;
+    padding-top: 5px;
+    font-size: 30px;
+    line-height: 1.4;
+    position: relative;
+}
+nav div{
+    margin-left: 70px;
+    margin-right: 70px;
+    text-align: center;
+    background-color: rgb(82, 247, 63);
+    padding: 10px;
+}
+main{
+    margin: auto;
+    padding-left: 70px;
+    padding-bottom: 100px;
+    padding-top: 25px;
+    padding-right: 70px;
+}
+main>div{
+    line-height: 0px;
+    margin: auto;
+    padding-bottom: 25px;
+}
+main h2{
+    display: inline-block;
+    font-size: 20px;
+    color: white;
+}
+p{
+    display: inline-block;
+    color: white;
+    line-height: 0;
+    position: relative;
+}
+#stato-carica1{
+    background: rgb(255, 185, 94);
+    width: 300px;
+    height: 25px;
+    border-radius: 5px;
+    border: 0px solid #0088b3;
+}
+#stato-carica2{
+    background: rgb(82, 247, 63);
+    width: 500px;
+    height: 25px;
+    border-radius: 5px;
+    border: 0px solid #0088b3;
+}
+#sato-carica3{
+    background: rgb(247, 63, 63);
+    width: 100px;
+    height: 25px;
+    border-radius: 5px;
+    border: 0px solid #0088b3;
+}
